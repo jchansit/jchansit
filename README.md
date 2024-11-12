@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @jchansit
-- Software Testing
+# 👋 Hi, I’m @jchansit
+## Software Testing
 - 🌱 I’m currently learning Software automated testing
 
 
